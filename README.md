@@ -37,8 +37,7 @@ I'm a **Web Developer** and **AI Enthusiast** passionate about creating innovati
 - 📧 Email: trimechyosr@gmail.com
 - 🌐 Always open to **collaboration** and **learning opportunities**!
 
----
-⭐ *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
 
 <!---
 tyosr/tyosr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
